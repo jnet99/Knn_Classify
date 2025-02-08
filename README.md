@@ -34,3 +34,6 @@ Implement a Python function, knn_classify, to perform k-Nearest Neighbors classi
 ## Testing and Results
 - Tested on the `pendigits` dataset with the k being 1,3 and 5.
 - Results were consistent with expected performance ranges.
+
+  ![knn_classify_pen_1](https://github.com/user-attachments/assets/1810c6af-83f3-4864-8803-1958d7a8238b)
+
